@@ -1,3 +1,5 @@
+![CI](https://github.com/jannesrsa/angular-tour-of-heroes/workflows/CI/badge.svg)
+
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.2.
